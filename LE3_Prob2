@@ -1,0 +1,4 @@
+interface TestTable{
+    void display();
+}
+0 comments on com
